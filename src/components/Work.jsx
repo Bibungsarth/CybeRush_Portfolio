@@ -10,28 +10,28 @@ import ProjectCard from "./ProjectCard";
 // Define categories for works
 const works = [
   {
-    imgSrc: '/images/project-1.jpg',
+    imgSrc: '/CybeRush_Portfolio/images/project-1.jpg',
     title: 'Attendance Manager',
     tags: ['Web-App', 'MVC', 'MySQL'],
     projectLink: 'https://github.com/Bibungsarth/Attendance_Management_System',
     category: 'WebDev'
   },
   {
-    imgSrc: '/images/project-2.jpg',
+    imgSrc: '/CybeRush_Portfolio/images/project-2.jpg',
     title: 'Headless Detector',
     tags: ['Headless Detection', 'JavaScript'],
     projectLink: 'https://github.com/Bibungsarth/headless_dectector',
     category: 'CyberSec'
   },
   {
-    imgSrc: '/images/project-3.jpg',
+    imgSrc: '/CybeRush_Portfolio/images/project-3.jpg',
     title: 'AI Based Digit-Classifier',
     tags: ['AI', 'CNN', 'TensorFlow'],
     projectLink: 'https://github.com/Bibungsarth/Digit-Classification-Using-CNN-on-MNIST-with-TensorFlow',
     category: 'CyberSec'
   },
   {
-    imgSrc: '/images/project-4.jpg',
+    imgSrc: '/CybeRush_Portfolio/images/project-4.jpg',
     title: 'React Portfolio',
     tags: ['Web-Design', 'Development'],
     projectLink: 'https://github.com/Bibungsarth/React_Portfolio',

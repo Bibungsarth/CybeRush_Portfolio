@@ -7,62 +7,62 @@
 import SkillCard from "./SkillCard";
 const skillItem = [
   {
-    imgSrc: '/images/burpsuite.svg',
+    imgSrc: '/CybeRush_Portfolio/images/burpsuite.svg',
     label: 'Burp Suite',
     desc: 'Vulnerability Scanner'
   },
   {
-    imgSrc: '/images/OWASP.png',
+    imgSrc: '/CybeRush_Portfolio/images/OWASP.png',
     label: 'OWASP',
     desc: 'Open Web Security'
   },
   {
-    imgSrc: '/images/nmap.svg',
+    imgSrc: '/CybeRush_Portfolio/images/nmap.svg',
     label: 'Nmap',
     desc: 'Network Scanner'
   },
   {
-    imgSrc: '/images/wireshark.svg',
+    imgSrc: '/CybeRush_Portfolio/images/wireshark.svg',
     label: 'Wireshark',
     desc: 'Packet Analyzer'
   },
   {
-    imgSrc: '/images/html.svg',
+    imgSrc: '/CybeRush_Portfolio/images/html.svg',
     label: 'HTML',
     desc: 'Content Structure"'
   },
   {
-    imgSrc: '/images/css3.svg',
+    imgSrc: '/CybeRush_Portfolio/images/css3.svg',
     label: 'CSS',
     desc: 'User Interface'
   },
   {
-    imgSrc: '/images/javascript.svg',
+    imgSrc: '/CybeRush_Portfolio/images/javascript.svg',
     label: 'JavaScript',
     desc: 'Interaction'
   },
   {
-    imgSrc: '/images/tailwindcss.svg',
+    imgSrc: '/CybeRush_Portfolio/images/tailwindcss.svg',
     label: 'TailwindCSS',
     desc: 'User Interface'
   },
   {
-    imgSrc: '/images/mongodb.svg',
+    imgSrc: '/CybeRush_Portfolio/images/mongodb.svg',
     label: 'MongoDB',
     desc: 'Database'
   },
   {
-    imgSrc: '/images/expressjs.svg',
+    imgSrc: '/CybeRush_Portfolio/images/expressjs.svg',
     label: 'ExpressJS',
     desc: 'Node Framework'
   },
   {
-    imgSrc: '/images/react.svg',
+    imgSrc: '/CybeRush_Portfolio/images/react.svg',
     label: 'React',
     desc: 'Framework'
   },
   {
-    imgSrc: '/images/nodejs.svg',
+    imgSrc: '/CybeRush_Portfolio/images/nodejs.svg',
     label: 'NodeJS',
     desc: 'Web Server'
   }

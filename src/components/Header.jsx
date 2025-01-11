@@ -21,7 +21,7 @@ const Header = () => {
                         className="logo"
                     >
                         <img
-                            src="/images/logo.webp"
+                            src="/CybeRush_Portfolio/images/logo.webp"
                             width={40}
                             height={40}
                             alt="cybeRush"

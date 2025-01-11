@@ -21,10 +21,6 @@ const sitemap = [
     href: '#work'
   },
   {
-    label: 'Reviews',
-    href: '#reviews'
-  },
-  {
     label: 'Contact me',
     href: '#contact'
   }
@@ -46,10 +42,6 @@ const socials = [
   {
     label: 'Instagram',
     href: 'https://www.instagram.com'
-  },
-  {
-    label: 'CodePen',
-    href: 'https://codepen.io'
   }
 ];
 
@@ -99,7 +91,7 @@ const Footer = () => {
         </div>
         <div className="flex items-center justify-between pt-10 mb-8">
           <a href="/" className="logo reveal-up">
-            <img src="/images/logo.webp" width={40} height={40} alt="Logo" />
+            <img src="/CybeRush_Portfolio/images/logo.webp" width={40} height={40} alt="Logo" />
           </a>
           <p className="text-zinc-500 text-sm reveal-up">
             &copy; 2025 <span className="text-zinc-200">CybeRush</span>
