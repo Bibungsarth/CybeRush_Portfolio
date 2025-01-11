@@ -18,6 +18,13 @@ Welcome to my **Portfolio!** This is a showcase of my personal journey as a web 
 - [Contact](#contact)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+---
 
 ## ![Project Overview](https://img.shields.io/badge/-Overview-blue?style=for-the-badge) 🌟
 
