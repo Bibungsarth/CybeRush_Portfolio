@@ -13,8 +13,10 @@ Currently, two official plugins are available:
 
 Welcome to my **Portfolio!** This is a showcase of my personal journey as a web developer. Here you’ll find my projects, skills, tools used in development, and experience.
 
-![Portfolio Preview](https://github.com/Bibungsarth/CybeRush_Portfolio/raw/main/public/images/project-4.jpg)
-![Portfolio Preview](https://github.com/Bibungsarth/CybeRush_Portfolio/raw/main/public/images/ss.png)
+<div style="display: flex;">
+  <img src="https://github.com/Bibungsarth/CybeRush_Portfolio/raw/main/public/images/project-4.jpg" alt="Portfolio Preview" style="width: 25%; margin-right: 50px;" />
+  <img src="https://github.com/Bibungsarth/CybeRush_Portfolio/raw/main/public/images/ss.png" alt="Portfolio Preview" style="width: 70%;" />
+</div>
 
 
 ---
