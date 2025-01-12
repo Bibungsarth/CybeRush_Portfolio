@@ -34,7 +34,7 @@ const works = [
     imgSrc: '/CybeRush_Portfolio/images/project-4.jpg',
     title: 'React Portfolio',
     tags: ['Web-Design', 'Development'],
-    projectLink: 'https://github.com/Bibungsarth/React_Portfolio',
+    projectLink: 'https://github.com/Bibungsarth/CybeRush_Portfolio',
     category: 'WebDev'
   }
 ];
