@@ -37,7 +37,7 @@ const Hero = () => {
                         <ButtonPrimary
                             label="Download CV"
                             icon="download"
-                            href="/CybeRush_Portfolio/public/cv.pdf"
+                            href="/CybeRush_Portfolio/public/portfolio.pdf"
                             target="_blank"
                             download />
 
